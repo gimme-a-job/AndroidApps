@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Touch</string>
+
+    <string name="view_title1">Ｘ座標：</string>
+    <string name="view_title2">Ｙ座標：</string>
+
+    <string name="touchMessage">スクリーンがタッチされました</string>
+
+
+</resources>

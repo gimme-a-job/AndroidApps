@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mydroid2-1</string>
+
+    <string name="view_title1">ようこそAndroidの世界へ</string>
+    <string name="view_title2">オブジェクト指向プログラミング</string>
+
+    <string name="btn_title">メッセージの表示</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MediaPlayer2</string>
+
+    <string name="view_title1">音楽再生プレイヤー</string>
+    <string name="view_title2">再生する音楽を選択してください</string>
+    <string name="view_title3">再生時間</string>
+
+    <string name="btn_title_play">再生</string>
+    <string name="btn_title_pause">一時停止</string>
+    <string name="btn_title_stop">停止</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="touchMessage">スクリーンがタッチされました</string>
+
+    <string name="dir_Up">上</string>
+    <string name="dir_Left">左</string>
+    <string name="dir_Down">下</string>
+    <string name="dir_Right">右</string>
+
+</resources>

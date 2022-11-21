@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Greet2</string>
+
+    <string name="btn_title1">朝</string>
+    <string name="btn_title2">昼</string>
+    <string name="btn_title3">夜</string>
+
+    <string name="greetingAsa">おはよう</string>
+    <string name="greetingHiru">こんにちは</string>
+    <string name="greetingYoru">こんばんは</string>
+</resources>

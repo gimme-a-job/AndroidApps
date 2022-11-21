@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="greetingAsa">Good!</string>
+    <string name="greetingHiru">Hi!!</string>
+    <string name="greetingYoru">Bye</string>
+
+
+</resources>

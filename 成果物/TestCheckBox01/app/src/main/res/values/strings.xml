@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestCheckBox01</string>
+
+    <string name="chk_title1">酷暑</string>
+    <string name="chk_title2">猛暑</string>
+
+</resources>

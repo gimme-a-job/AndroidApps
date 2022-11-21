@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Health</string>
+
+    <string name="view_title1">標準体重と肥満度計算</string>
+    <string name="view_title2">現在の身長と体重を入力してください</string>
+    <string name="view_title3">身長(cm)</string>
+    <string name="view_title4">体重(kg)</string>
+    <string name="view_title5">現在の体重(kg) :</string>
+    <string name="view_title6">標準体重(kg) :</string>
+    <string name="view_title7">BMI値 :</string>
+
+
+    <string name="btn_title">標準体重とBMIの計算</string>
+
+</resources>

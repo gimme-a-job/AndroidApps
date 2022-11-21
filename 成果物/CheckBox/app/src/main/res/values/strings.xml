@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+
+    <string name="txt_title">好きなスポーツの選択</string>
+
+    <string name="chk_title1">野球</string>
+    <string name="chk_title2">サッカー</string>
+    <string name="chk_title3">ラグビー</string>
+    <string name="chk_title4">相撲</string>
+    <string name="chk_title5">バレーボール</string>
+
+    <string name="btn_title">確認</string>
+
+</resources>

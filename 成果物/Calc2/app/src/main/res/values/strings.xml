@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calc2</string>
+
+    <string name="view_title1">四則演算プログラム</string>
+    <string name="view_title2">整数1の入力</string>
+    <string name="view_title3">整数2の入力</string>
+    <string name="view_title4">計算結果</string>
+
+    <string name="radio_title1">和</string>
+    <string name="radio_title2">差</string>
+    <string name="radio_title3">積</string>
+    <string name="radio_title4">商</string>
+</resources>

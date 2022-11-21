@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">TouchDirection</string>
+
+    <string name="touchMessage">The screen is touched.</string>
+
+    <string name="dir_Up">Upper</string>
+    <string name="dir_Left">Left</string>
+    <string name="dir_Down">Lower</string>
+    <string name="dir_Right">Right</string>
+
+</resources>

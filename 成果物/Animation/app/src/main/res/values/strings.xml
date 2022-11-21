@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Animation</string>
+
+    <string name="btn_title_alpha">透過</string>
+    <string name="btn_title_scale">拡大/縮小</string>
+    <string name="btn_title_rotate">回転</string>
+    <string name="btn_title_xlate">移動</string>
+
+</resources>

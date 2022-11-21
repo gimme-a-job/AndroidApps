@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string name="view_title">県名の検索</string>
+
+    <string-array name="prefectures">
+        <item></item>
+        <item>茨城県</item>
+        <item>東京都</item>
+        <item>栃木県</item>
+        <item>群馬県</item>
+        <item>埼玉県</item>
+        <item>千葉県</item>
+        <item>神奈川県</item>
+    </string-array>
+
+
+</resources>

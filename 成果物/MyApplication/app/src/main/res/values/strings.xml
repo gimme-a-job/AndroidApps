@@ -1,0 +1,16 @@
+<resources>
+<!--    <string name="app_name">My Application</string>-->
+    <string name="app_name">Hello Android</string>
+    <string name="message">オブジェクト指向プログラミング</string>
+    <string name="message2">ようこそ Androidの世界へ</string>
+
+    <string name="pref_name">県名の選択</string>
+    <string-array name="prefectures">
+        <item>栃木県</item>
+        <item>茨城県</item>
+        <item>埼玉県</item>
+    </string-array>
+
+    <string name="btn_title">あいさつ</string>
+
+</resources>

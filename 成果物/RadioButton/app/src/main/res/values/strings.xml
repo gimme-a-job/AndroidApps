@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RadioButton</string>
+
+    <string name="txt_title">血液型の選択</string>
+
+    <string name="radio_title_A">Ａ型</string>
+    <string name="radio_title_B">Ｂ型</string>
+    <string name="radio_title_AB">ＡＢ型</string>
+    <string name="radio_title_O">Ｏ型</string>
+
+</resources>

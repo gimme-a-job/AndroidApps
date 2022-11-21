@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mydroid4-3</string>
+
+    <string name="btn_title_Xfer">転送</string>
+    <string name="btn_title_Xchange">入れ替え</string>
+
+</resources>

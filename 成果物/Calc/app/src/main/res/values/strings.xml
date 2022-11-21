@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calc</string>
+
+    <string name="view_title1">2つの整数の合計値を計算するプログラム</string>
+    <string name="view_title2">整数1の入力</string>
+    <string name="view_title3">整数2の入力</string>
+    <string name="view_title4">計算結果</string>
+
+    <string name="btn_title">合計の計算</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image</string>
+
+    <string name="btn_title_higanbana">彼岸花の表示</string>
+    <string name="btn_title_yuri">ユリの表示</string>
+
+</resources>
